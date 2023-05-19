@@ -1,12 +1,12 @@
-text=auto eol=cr
+* text=auto eol=cr
 
-*.c text
-*.cc text
-*.cpp text
-*.h text
-*.test text
-GNUMakefile text
-Makefile text
+*.c text eol=cr
+*.cc text eol=cr
+*.cpp text eol=cr
+*.h text eol=cr
+*.test text eol=cr
+GNUMakefile text eol=cr
+Makefile text eol=cr
 makefile text
 
 *.db binary
