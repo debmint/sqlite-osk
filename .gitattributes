@@ -1,0 +1,15 @@
+text=auto eol=cr
+
+*.c text
+*.cc text
+*.cpp text
+*.h text
+*.test text
+GNUMakefile text
+Makefile text
+makefile text
+
+*.db binary
+*.jpg binary
+*.ico binary
+*.png binary
